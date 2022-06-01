@@ -1,4 +1,4 @@
-# 个人博客的服务端应用 使用TypeScript+Express搭建
+# 快速搭建服务端应用 使用TypeScript+Express搭建
 
 ## 特点
 
